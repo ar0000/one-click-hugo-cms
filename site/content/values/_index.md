@@ -1,45 +1,42 @@
 ---
-title: "Values"
+title: "About Nitesco"
+url: /about
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Our Vision"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      To be a leading multidisciplinary consultancy and technology firm
+      recognized for delivering innovative, sustainable, and high-impact
+      solutions that contribute to national development and global progress.
+    imageUrl: "/img/about-vision.jpg"
+  - heading: "Our Mission"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      To provide integrated consultancy and technology services that empower
+      organizations to achieve efficient, resilient, and sustainable outcomes.
+      We are committed to delivering practical, data-driven, and cost-effective
+      solutions through technical excellence, innovation, and strong client
+      partnerships.
+    imageUrl: "/img/about-mission.jpg"
+  - heading: "Innovation"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      Nitesco is driven by a commitment to continuous innovation. By integrating
+      advanced technology expertise with practical business insight, we develop
+      solutions that keep our clients at the forefront of their industries and
+      enable them to adapt to a rapidly changing world.
+    imageUrl: "/img/about-innovation.jpg"
+  - heading: "National Development"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      With a strong commitment to national development, Nitesco designs its
+      solutions to address real-world challenges, create measurable impact, and
+      drive inclusive economic progress. We partner with government bodies,
+      private sector organizations, and international institutions to support
+      sustainable growth.
+    imageUrl: "/img/about-national-dev.jpg"
+  - heading: "Client Partnership"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      We believe in building strong, long-term partnerships with our clients.
+      Our approach is collaborative — we listen, understand, and co-create
+      solutions that are tailored to each client's unique context and goals.
+      Your success is our success.
+    imageUrl: "/img/about-client-partnership.jpg"
 ---
