@@ -1,19 +1,23 @@
 ---
-title: "Contact"
+title: "Contact Us"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Dhaka, Bangladesh (Address to be updated)"
+  - heading: Working Hours
+    text: "Sunday – Thursday: 9AM – 6PM"
+  - heading: Email
+    text: "info@nitesco.com.bd"
+  - heading: Phone
+    text: "+880 (contact number to be updated)"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+We'd love to hear from you. Whether you're looking to discuss a new project,
+request a proposal, or simply learn more about our services — our team is
+ready to assist.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">How can we help?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Use the form below to get in touch with us regarding any of our consultancy
+and technology services. We aim to respond to all enquiries within one
+business day.

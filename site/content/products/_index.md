@@ -1,96 +1,80 @@
 ---
-title: Our Coffee
+title: Our Services
 type: products
-image: /img/products-jumbotron.jpg
+url: /services
+image: /img/services-jumbotron.jpg
+diagram_image: /img/services-diagram.png
 intro:
-  heading: What we offer
+  heading: Comprehensive Consultancy & Technology Services
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Nitesco is a modern multidisciplinary consultancy and technology company
+    delivering innovative digital solutions and strategic advisory services
+    across diverse sectors. We combine technology expertise with practical
+    business insight to enable sustainable growth, improved performance, and
+    long-term operational excellence.
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/service-infrastructure.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        Infrastructure Development Consultancy — Feasibility study & master
+        planning, detailed engineering design (civil, structural, electrical),
+        project management & construction supervision, road, bridge & drainage
+        design, building design, cost estimation, BOQ & tender documentation,
+        quality control, and environmental & social impact assessment.
+    - image: /img/service-agriculture.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
+        Agriculture & Agro-Technology — Agricultural consultancy & advisory,
+        agro project planning & feasibility study, smart farming & precision
+        agriculture, irrigation system design & supervision, greenhouse &
+        hydroponic system design, and training & capacity building for farmers.
+    - image: /img/service-disaster.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+        Disaster Risk & Climate Change Advisory — Disaster risk assessment &
+        vulnerability analysis, climate change impact assessment & adaptation
+        planning, DRR strategy development, climate resilient infrastructure
+        planning, early warning system design, emergency preparedness, PDNA,
+        community-based disaster management, climate finance & policy
+        consultancy, and training & capacity building.
+    - image: /img/service-solar.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Solar & Renewable Energy — Renewable energy consultancy, solar PV
+        system design & engineering, energy audit & load assessment, solar
+        system installation testing & commissioning, O&M services, and
+        hybrid & off-grid energy solution consultancy.
 main:
-  heading: Great coffee with no compromises
+  heading: Integrated Solutions Across Sectors
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    With a strong commitment to national development and innovation, Nitesco
+    delivers end-to-end consultancy and technology services that support
+    planning, implementation, and successful execution of projects. Our
+    solutions are designed to address real-world challenges, create measurable
+    impact, and drive inclusive economic progress. Additional service sectors
+    include Survey & Geospatial Services, Information Technology (IT) Services,
+    and Audit & Legal Support.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Nitesco services image 1 (replace via admin)
+    image: /img/services-grid1.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Nitesco services image 2 (replace via admin)
+    image: /img/services-grid2.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Nitesco services image 3 (replace via admin)
+    image: /img/services-grid3.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Client — Government Infrastructure Project
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Nitesco's team delivered a thorough feasibility study and engineering
+      design that exceeded our expectations. Their professionalism and
+      technical depth set them apart.
+  - author: Client — Agricultural Development Programme
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
+      Working with Nitesco on our smart farming initiative brought real
+      innovation to our operations. Their practical, data-driven approach
+      delivered measurable results.
+full_image: /img/services-full-width.jpg
+cta:
+  heading: Ready to Start Your Project?
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: '50'
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+    Contact us to discuss your requirements, request a proposal, or schedule
+    a consultation with our expert team. We are committed to delivering
+    practical, cost-effective solutions tailored to your needs.
 ---
-
-

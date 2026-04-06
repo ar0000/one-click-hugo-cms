@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Innovative Solutions for National Development"
+subtitle: "Multidisciplinary Consultancy & Technology Services"
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Nitesco?
+    text: "Nitesco combines technology expertise with practical business insight to help our clients achieve sustainable growth and operational excellence. We deliver end-to-end consultancy and technology services that support planning, implementation, and successful execution of projects across diverse sectors."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "What We Offer"
+    text: "Nitesco provides integrated consultancy and technology services that empower organizations to achieve efficient, resilient, and sustainable outcomes. Our solutions address real-world challenges, create measurable impact, and drive inclusive economic progress."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: /img/illustrations-infrastructure.png
+      text: "Our Infrastructure Development and Engineering Consultancy services cover feasibility studies, master planning, detailed engineering design (civil, structural, electrical), project management, construction supervision, and environmental impact assessment."
+    - image: /img/illustrations-technology.png
+      text: "Our Technology and IT solutions include software development, custom applications, web design, GIS-based systems, network design, cybersecurity, and smart digital solutions tailored to your organization's needs."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Our Commitment
+    text: "We are committed to delivering practical, data-driven, and cost-effective solutions through technical excellence, innovation, and strong client partnerships — contributing to national development and global progress."
 ---
-

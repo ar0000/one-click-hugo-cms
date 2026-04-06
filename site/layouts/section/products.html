@@ -4,6 +4,14 @@
 
 {{ partial "4-up" .Params.intro }}
 
+<!-- Services Diagram -->
+{{ with .Params.diagram_image }}
+<div class="bg-off-white pv4 ph3 tc">
+  <div class="mw7 center">
+    <img src="{{ . }}" alt="Nitesco Services Overview" class="db center mw-100">
+  </div>
+</div>
+{{ end }}
 
 {{ with .Params.main }}
 <div class="mw7 center">
@@ -26,6 +34,13 @@
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
-{{ partial "table" .Params.pricing }}
+<!-- Contact CTA -->
+<div class="bg-off-white pv5 ph3 tc">
+  <div class="mw6 center">
+    <h2 class="f2 b lh-title mb3">{{ with .Params.cta }}{{ .heading }}{{ else }}Ready to Start Your Project?{{ end }}</h2>
+    <p class="mb4">{{ with .Params.cta }}{{ .description }}{{ else }}Contact us to discuss your requirements, request a proposal, or schedule a consultation with our expert team.{{ end }}</p>
+    <a href="/contact" class="btn raise">Get in Touch</a>
+  </div>
+</div>
 
 {{ end }}
