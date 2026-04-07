@@ -1,7 +1,7 @@
 ---
 title: "Nitesco Tech and Development Limited"
 subtitle: "Innovative Digital Solutions & Strategic Advisory Services"
-image: /img/home-jumbotron.jpg
+image: /img/company-image.png
 blurb:
   heading: "Empowering Your Sustainable Growth"
   text: "Nitesco combines technology expertise with practical business insight to help clients achieve sustainable growth and operational excellence. We deliver end-to-end consultancy and technology services that support the planning, implementation, and successful execution of projects across diverse sectors."

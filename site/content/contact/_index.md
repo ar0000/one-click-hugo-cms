@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-logo: "/img/logo.svg"
+logo: "/img/nitesco-logo.png"
 contact_entries:
   - heading: Location
     text: "493/2, Baganbari, Malibagh Railgate, Dhaka 1217"

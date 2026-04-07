@@ -86,3 +86,56 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@use './imports/_debug';*/
+
+
+/* Custom Modern Styles */
+body {
+  font-family: 'Inter', 'Nunito Sans', sans-serif;
+  color: #333;
+}
+
+.btn {
+  border-radius: 9999px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+  color: #fff;
+  border: none;
+}
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(135deg, #1e40af, #2563eb);
+}
+
+.product-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
+}
+
+.hero-slider h1 {
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  font-weight: 800;
+}
+
+.bg-grey-1 {
+  background-color: #f8fafc;
+}
+.bg-off-white {
+  background-color: #f1f5f9;
+}
+.text-gradient {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(135deg, #1e3a8a, #3b82f6);
+}
+
