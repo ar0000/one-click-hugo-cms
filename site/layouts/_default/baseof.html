@@ -2,16 +2,29 @@
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
   <body class="sans-serif">
-
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
-
-    {{ block "main" . }}{{ end }}
-
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
+    {{ block "header" . }}{{ partial "nav" . }}{{end}} {{ block "main" . }}{{
+    end }} {{ block "footer" . }}{{ partial "footer" . }}{{end}} {{ $script :=
+    .Site.Data.webpack.main }} {{ with $script.js }}
+    <script src="{{ relURL . }}"></script>
     {{ end }}
+    <!-- Swiper JS CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <!-- AOS Animation JS CDN -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init({ once: true, duration: 800 });
+      if (document.querySelector(".mySwiper")) {
+        new Swiper(".mySwiper", {
+          loop: true,
+          autoplay: { delay: 5000, disableOnInteraction: false },
+          pagination: { el: ".swiper-pagination", clickable: true },
+          navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+          },
+          effect: "fade",
+        });
+      }
+    </script>
   </body>
 </html>

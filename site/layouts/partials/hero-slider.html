@@ -1,0 +1,60 @@
+<!-- Hero Slider -->
+<div class="vh-100 bg-black relative mb4 hero-slider overflow-hidden">
+  <!-- Swiper -->
+  <div class="swiper mySwiper w-100 h-100 relative">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div
+        class="swiper-slide vh-100 bg-center cover relative"
+        style="background-image: url('{{ .image }}');"
+      >
+        <div class="absolute top-0 right-0 bottom-0 left-0 bg-black-50"></div>
+        <div
+          class="absolute top-0 right-0 bottom-0 left-0 flex flex-column justify-center items-center white tc ph3 z-1"
+        >
+          <h1 class="f1 f-headline-ns fw7 mb2" data-aos="fade-down">
+            {{ .title }}
+          </h1>
+          <h2
+            class="f3 fw4 mw7 lh-copy"
+            data-aos="fade-up"
+            data-aos-delay="200"
+          >
+            {{ .subtitle }}
+          </h2>
+          <a
+            href="/contact"
+            class="link bg-blue white br-pill ph4 pv3 mt4 f4 fw6 shadow-1 grow"
+            data-aos="zoom-in"
+            data-aos-delay="400"
+            >Get a Consultation</a
+          >
+        </div>
+      </div>
+
+      <!-- Slide 2 -->
+      <div
+        class="swiper-slide vh-100 bg-center cover relative"
+        style="background-image: url(&quot;/img/home-jumbotron.jpg&quot;)"
+      >
+        <div class="absolute top-0 right-0 bottom-0 left-0 bg-black-50"></div>
+        <div
+          class="absolute top-0 right-0 bottom-0 left-0 flex flex-column justify-center items-center white tc ph3 z-1"
+        >
+          <h1 class="f1 f-headline-ns fw7 mb2">Digital Solutions</h1>
+          <h2 class="f3 fw4 mw7 lh-copy">
+            Transforming business with smart technology
+          </h2>
+          <a
+            href="/products"
+            class="link bg-blue white br-pill ph4 pv3 mt4 f4 fw6 shadow-1 grow"
+            >View Products</a
+          >
+        </div>
+      </div>
+    </div>
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-next white"></div>
+    <div class="swiper-button-prev white"></div>
+  </div>
+</div>
