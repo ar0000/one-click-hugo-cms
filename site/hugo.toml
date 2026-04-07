@@ -5,4 +5,4 @@ title = "Nitesco Tech and Development Limited"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/screenshot-2026-04-06-074059.png"]
+images = ["img/nitesco-logo.png"]
