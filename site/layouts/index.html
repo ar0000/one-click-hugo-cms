@@ -1,13 +1,15 @@
-{{ define "main" }}
+{{ define "main" }} {{ partial "hero-slider" (dict "image" .Params.image "title"
+.Title "subtitle" .Params.subtitle) }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+<div data-aos="fade-up">{{ partial "short-text" .Params.blurb}}</div>
 
-{{ partial "short-text" .Params.blurb}}
+<div data-aos="fade-right">{{ partial "2-up" .Params }}</div>
 
-{{ partial "2-up" .Params }}
+<div data-aos="fade-left">
+  {{ partial "text-and-image" (dict "heading" .Params.values.heading "text"
+  .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+</div>
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
-{{ partial "blog" . }}
+<div data-aos="slide-up">{{ partial "blog" . }}</div>
 
 {{ end }}
