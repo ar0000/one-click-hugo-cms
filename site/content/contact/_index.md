@@ -1,15 +1,15 @@
 ---
-title: "Contact Us"
-logo: "/img/nitesco-logo.png"
+title: Contact Us
+logo: /img/nitesco-logo.png
 contact_entries:
   - heading: Location
-    text: "493/2, Baganbari, Malibagh Railgate, Dhaka 1217"
+    text: 493/2, Baganbari, Malibagh Railgate, Dhaka 1217
   - heading: Working Hours
     text: "Sunday - Thursday: 9AM - 6PM"
   - heading: Email
-    text: "nitescobd@gmail.com"
+    text: nitescobd@gmail.com
   - heading: Phone
-    text: "+880 (contact number to be updated)"
+    text: +880 1846-081414
 ---
 
 We'd love to hear from you. Whether you're looking to discuss a new project,
