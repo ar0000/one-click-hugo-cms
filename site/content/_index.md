@@ -16,10 +16,10 @@ intro:
     to disaster risk management, our multidisciplinary team empowers your
     organization.
 products:
-  - image: /img/illustrations-infrastructure.png
+  - image: img/1.png
     text: Infrastructure Development & Engineering - Civil, structural, electrical
       design, master planning, BOQ, and environmental impact assessments.
-  - image: /img/illustrations-technology.png
+  - image: img/4.png
     text: Information Technology (IT) - Custom software, smart digital solutions,
       cybersecurity, GIS mapping, and web-based platforms.
 values:
