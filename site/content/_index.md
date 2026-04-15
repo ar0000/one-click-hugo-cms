@@ -1,7 +1,7 @@
 ---
-title: Nitesco Tech and Development Limited
-subtitle: Innovative Digital Solutions & Strategic Advisory Services
-image: img/•infrastructure-development-consultancy.png
+title: Infrastructure
+subtitle: Development Consultancy
+image: img/whatsapp-image-2026-02-22-at-12.39.11-pm-4-.jpeg
 blurb:
   heading: Empowering Your Sustainable Growth
   text: Nitesco combines technology expertise with practical business insight to
